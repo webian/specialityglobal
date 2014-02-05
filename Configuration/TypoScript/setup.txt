@@ -1,0 +1,5 @@
+###################################################
+# Include all TypoScript files
+###################################################
+
+specialityglobal.test = ${specialityglobal.test}
