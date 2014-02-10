@@ -3,3 +3,8 @@
 ###################################################
 
 specialityglobal.test = ${specialityglobal.test}
+
+speciality {
+	# Switch to show/hide FE tips for a logged in BE user.
+	displayTips = 0
+}
